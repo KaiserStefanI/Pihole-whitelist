@@ -1,0 +1,7 @@
+# This is my whitelist
+
+
+store-images.s-microsoft.com
+
+
+# END
