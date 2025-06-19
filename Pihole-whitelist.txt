@@ -1,7 +1,15 @@
 # This is my whitelist
 
-
 store-images.s-microsoft.com
+info.cspserver.net
+
+# ZDF
+time.samsungcloudsolution.net
+time.samsungcloudsolution.com
+
+# Prime Video
+api.amazon.com
+eu.api.amazonvideo.com
 
 
 # END
