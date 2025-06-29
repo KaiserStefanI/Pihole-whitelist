@@ -1,6 +1,9 @@
 # This is myKaiserStefanI's whitelist
 
+# xBox store
 store-images.s-microsoft.com
+
+# Samsung Smartthings
 info.cspserver.net
 
 # ZDF
