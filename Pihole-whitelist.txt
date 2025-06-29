@@ -1,4 +1,4 @@
-# This is my whitelist
+# This is myKaiserStefanI's whitelist
 
 store-images.s-microsoft.com
 info.cspserver.net
